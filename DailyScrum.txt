@@ -1,1 +1,23 @@
 Daily SCRUM
+
+October 21 - Nick 
+done since last scrum
+1. Submitted Proposal, created html and css files in repository. 
+plans for next scrum
+
+2. begin index.html page and learn more pages
+find documentation for features to implement
+
+things to figure out 
+3. finding best pratcices in dividing work efficiently
+
+October 21 - Jorge
+
+done since last scrum
+1.completed mock up
+
+Plan until next scrum
+2.work on pop up windows 
+
+things to figure out
+3.technical quastions in linking pages
