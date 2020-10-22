@@ -1,0 +1,60 @@
+.page{
+    margin:auto;
+}
+.main{
+margin:5px auto;
+align-content: center;
+
+}
+.banner{
+    background-image: url(imgs/banner.jpg);
+    height:400px;
+    justify-content: center;
+}
+.soundTag{
+    width: 50px;
+    float: left;
+}
+.tagLine{
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem ;
+}
+.buttons{
+    text-align: center;
+}
+.searchBar{
+    margin: auto;
+}
+.searchBar>input{
+    width: 500px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    align-content: center;
+    
+    
+
+}
+.bigTag{
+    text-align: center;
+}
+.trendingHome{
+    align-content: center;
+}
+.thumbnail{
+    width: 200px;
+    height: 180px;
+}
+.trackTitles{
+    text-align: center;
+}
+.subName{
+    text-align: center;
+}
+.space{
+    margin: 5px;
+}
+.audioPlayer{
+    
+}
