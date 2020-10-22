@@ -16,8 +16,8 @@ align-content: center;
 .learnBanner{
     background-image: url(imgs/speaker1.jpg);
     height: 400px;
-    justify-content: center;
-    color:white;
+    
+    
 }
 .soundTag{
     width: 50px;
@@ -27,19 +27,30 @@ align-content: center;
     float:right;
 }
 .regButton{
-    float:right;
-}
-.center{
+    margin-top: 10px;
+    border:solid 2px black;
     text-align: center;
+    padding-bottom: -5px;
 }
+
+
 .createButton{
     text-align: center;
     border: solid 2px white;
     width: auto;
     padding:10px;
-    margin-top: 20px;
+    margin-top: 30px;
     
     
+}
+.learnBannercontent{
+  margin: auto;
+  width: 50%;
+  padding: 70px 0;
+  
+  text-align: center;
+  color:white;
+  
 }
 .tagLine{
     text-align: center;
@@ -84,5 +95,6 @@ align-content: center;
     margin: 5px;
 }
 .audioPlayer{
-    
+    width: 1080px;
+    margin: auto;
 }
