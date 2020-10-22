@@ -1,5 +1,27 @@
 Daily SCRUM
 
+
+October 22-Nick
+done since last scrum
+1. began work on index.html have not pushed
+
+2.plans for next scrum
+Finish index hmtl and learnmore.html
+
+3.Things to figure out
+Nothing
+
+October 22-Jorge 
+1. done since last scrum
+started pop up windows
+
+2.plans for next scrum
+complete present tasks, register and login.html
+
+3.things to figure out 
+no blocks at the moment
+
+
 October 21 - Nick 
 done since last scrum
 1. Submitted Proposal, created html and css files in repository. 
