@@ -6,6 +6,8 @@ margin:5px auto;
 align-content: center;
 
 }
+
+
 .banner{
     background-image: url(imgs/banner.jpg);
     height:400px;
@@ -14,6 +16,9 @@ align-content: center;
 .soundTag{
     width: 50px;
     float: left;
+}
+.signUpReg{
+    float:right;
 }
 .tagLine{
     text-align: center;
