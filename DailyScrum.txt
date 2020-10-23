@@ -1,6 +1,25 @@
 Daily SCRUM
 
 
+October 23-Nick
+1.done since last scrum
+pushed index and learn more, both 85% complete
+2.plans for next scrum 
+do the same for search and home
+things to figure out
+3. css touch ups, placements and adding text to player
+
+October 23-Jorge 
+1. done since last scrum
+80% completed modal windows
+2.plans for next scrum
+push modals, start on search
+3.things to figure out
+applying bootstrap
+
+
+
+
 October 22-Nick
 done since last scrum
 1. began work on index.html have not pushed
