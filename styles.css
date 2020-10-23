@@ -61,6 +61,7 @@ align-content: center;
 }
 .buttons{
     text-align: center;
+
 }
 .searchBar{
     margin: auto;
@@ -70,8 +71,11 @@ align-content: center;
     margin-top: 25px;
     margin-bottom: 30px;
     align-content: center;
-    
-    
+}   
+.top{
+    justify-content:inline;
+
+}   
 
 }
 .bigTag{
@@ -98,3 +102,25 @@ align-content: center;
     width: 1080px;
     margin: auto;
 }
+.navList{
+    list-style: none;
+    color: black;
+    
+}
+li{
+    padding: 10px;
+    font-size: 1.2rem;
+    margin-left: 20px;
+    
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+
+.noDeco{
+    color:#000000;
+    text-decoration: none;
+}
+
+.limit{max-width: inherit;}
+
