@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <title>BackSounds Home</title>
+    <title>BackSounds Play</title>
 </head>
 
 <body>
@@ -53,20 +53,51 @@
                     <button class="buttons">Log In</button>
                 </div>
             </nav>
+            <div class="playPart container">
+                <div class="row">
+                    <img class="col-4" src="imgs/city.jpg" class="thumbnail" alt="thumbnail">
+                    <div class="col-1"><i class="fas fa-play playBut"></i></div>
 
+                    <div class="col infoSec">
+
+                        <div class="col row">Urban Jungle(day)</div>
+                        <div class="col row">Environment</div>
+                        <img src="imgs/wave.JPG" class="waveform " alt="waveform">
+                    </div>
+                    <div class="col">
+                        <p class="disclaimer">Legal-Privacy-Cookies-Imprint-Creator Resources-Blog-Charts-Popular
+                            searches
+
+                            Language:<a href="#">English(US)</a> </p>
+                    </div>
+
+                    <div class="audioPlayer">
+                        <audio style="margin-top:20px" class="audioPlayer " src="sounds/jungle1.mp3" type="audio/mpeg"
+                            controls='controls'></audio>
+                    </div>
+
+                </div>
+                <div class="commentsSection container">
+                    <input class="row col commentBox" placeholder="Enter your comment here" type="text">
+                    <hr>
+                    <div class="comment row"><span class="letterCap">N</span><b>Nick</b><br>
+                        I could listen to this all day</div>
+                    <div class="comment row"><span class="letterCap">N</span><b>Nick</b><br>
+                        I could listen to this all day</div>
+                </div>
+            </div>
 
         </div>
-    </div>
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+            integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+        </script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+            integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+        </script>
+        <script src="https://unpkg.com/wavesurfer.js"></script>
 </body>
-
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
-</script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
-</script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
-</script>
 
 </html>
