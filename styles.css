@@ -89,6 +89,7 @@ align-content: center;
 .thumbnail{
     width: 200px;
     height: 180px;
+    padding: 10px;
 }
 .trackTitles{
     text-align: center;
@@ -107,7 +108,7 @@ align-content: center;
     color: black;
     
 }
-li{
+.nav-item{
     padding: 10px;
     font-size: 1.2rem;
     margin-left: 20px;
@@ -120,6 +121,14 @@ li{
 .noDeco{
     color:#000000;
     text-decoration: none;
+    list-style: none;
+    margin-left: -20px;
+    padding:20px;
+    
+}
+.spaceEm{
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 
@@ -218,16 +227,21 @@ li{
     transform: translate3d(var(--carousel-offset-right), 0, 0);
 }
 .one{
+    justify-content: center;
     background-image: url(imgs/jungle.jpg);
+    color:white;
 }
 .two{
-    background-image: url(imgs/jungle.jpg);
+    background-image: url(imgs/forest.jpg);
+    color:white;
 }
 .three{
-    background-image: url(imgs/jungle.jpg);
+    background-image: url(imgs/waterfalls.jpg);
+    color:white;
 }
 .four{
-    background-image: url(imgs/jungle.jpg);
+    background-image: url(imgs/waterfalls.jpg);
+    color:white;
 }
 
 
@@ -267,15 +281,33 @@ li{
     font-size: 1.5rem;
     font-weight: bolder;
     border-radius: 50%;
+    width: 60px;
+    
 }
 .commentBox{
     margin: 20px auto 20px auto;
     width: 400px;
 
 }
+.comment{
+    margin-top: 60px;
+}
 .carousel-item>img{
     max-height: 300px;
 }
 .newSearch{
     padding:0px;
+}
+.buttoned{
+    border: 1px solid black;
+    background-color: lightgray;
+    padding: 3px;
+    color: black;
+
+}
+.selected{
+    border:solid 2px black;
+    background-color: violet;
+    font-weight: bolder;
+    text-align: center;
 }
