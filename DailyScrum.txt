@@ -1,5 +1,26 @@
 Daily SCRUM
 
+October 26th -Nick
+
+1.done since last scrum
+Redid index, implemented more bootstrap throughout the pages, created interactive carousel for search page
+2.plans for next scrum
+Complete search page, home page, link pages, test
+3.things to figure out
+nothing for now
+
+October 26th-Jorge
+1.done since last scrum
+finished login and register, 
+2.plans for next scrum
+assist in adding in hrefs, completing modals
+3. things to figure out
+issues with source tree
+
+
+
+
+
 
 October 23-Nick
 1.done since last scrum
