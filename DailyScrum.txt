@@ -1,5 +1,22 @@
 Daily SCRUM
 
+
+October 27th-Nick
+1.Done since last scrum
+Linked pages, created more play pages
+2. plans for next scrum
+link all pages and test
+3.things to figure out
+autoplay <audio> on chrome (not allowed)
+
+October 27th- Jorge
+1.done since last scrum
+85% homepage complete
+2.plans for next scrum
+complete and push homepage
+3.things to figure out
+Source Tree
+
 October 26th -Nick
 
 1.done since last scrum
