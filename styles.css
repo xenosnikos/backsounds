@@ -245,7 +245,7 @@
 }
 
 .three {
-    background-image: url(imgs/waterfalls.jpg);
+    background-image: url(imgs/waterfall2.jpg);
     color: white;
 }
 
@@ -324,4 +324,13 @@
     background-color: violet;
     font-weight: bolder;
     text-align: center;
+}
+
+.drop {
+    margin-top: 20px;
+}
+
+.subTag {
+    font-size: 0.8rem;
+    color: grey;
 }
