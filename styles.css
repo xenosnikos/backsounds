@@ -130,8 +130,9 @@
 :root {
     /* Tile Dimensions */
     --carousel-tile-spacing: 10px;
-    --carousel-tile-width: 200px;
-    --carousel-tile-height: calc(var(--carousel-tile-width) / (16 / 9));
+    --carousel-tile-width: 120px;
+    --carousel-tile-height: 120px;
+    /* calc(var(--carousel-tile-width) / (16 / 9)); */
     /* Growth Factor */
     --carousel-growth-factor: 1.5;
     /* Fade to Opacity */
@@ -185,6 +186,8 @@
     cursor: hand;
     text-align: center;
     vertical-align: auto;
+    color: white;
+    font-size: 12px;
 }
 
 
@@ -233,25 +236,68 @@
     transform: translate3d(var(--carousel-offset-right), 0, 0);
 }
 
-.one {
-    justify-content: center;
-    background-image: url(imgs/jungle.jpg);
-    color: white;
+.nat_one{
+    background-image: url(imgs/SecludedWaterfall.png);   
 }
-
-.two {
-    background-image: url(imgs/forest.jpg);
-    color: white;
+.nat_two{
+    background-image: url(imgs/Forest.png);
 }
-
-.three {
-    background-image: url(imgs/waterfall2.jpg);
-    color: white;
+.nat_three{
+    background-image: url(imgs/RainSounds.png);
 }
-
-.four {
-    background-image: url(imgs/waterfalls.jpg);
-    color: white;
+.nat_four{
+    background-image: url(imgs/BambooWind.png);
+}
+.nat_five{
+    background-image: url(imgs/WildNature.png);
+}
+.chill_one{
+    background-image: url(imgs/Downtempo.png);
+}
+.chill_two{
+    background-image: url(imgs/Lounge.png);
+}
+.chill_three{
+    background-image: url(imgs/NewAge.png);
+}
+.chill_four{
+    background-image: url(imgs/Breeze.png);
+    color: black;
+}
+.chill_five{
+    background-image: url(imgs/Chillax.png);
+}
+.relax_one{
+    background-image: url(imgs/Meditation.png);
+}
+.relax_two{
+    background-image: url(imgs/Sleep.png);
+    color: rgb(22, 195, 60);
+}
+.relax_three{
+    background-image: url(imgs/Lofi4Studying.png);
+}
+.relax_four{
+    background-image: url(imgs/JustRelax.png);
+}
+.relax_five{
+    background-image: url(imgs/CalmSky.png);
+}
+.sports_one{
+    background-image: url(imgs/WorkOut.png);
+}
+.sports_two{
+    background-image: url(imgs/Running.png);
+    color: black;
+}
+.sports_three{
+    background-image: url(imgs/Rap.png);
+}
+.sports_four{
+    background-image: url(imgs/Fitness.png);
+}
+.sports_five{
+    background-image: url(imgs/PumpBeat.png);
 }
 
 .dropdown {
