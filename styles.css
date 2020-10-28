@@ -415,7 +415,8 @@
     border: none;
     outline: none;
     height: 35px;
-    /* width: 100%; */
+    width: 100%;
+    font-size: 12px;
     background-color: rgb(255, 3, 2);
     color: white;
     border-radius: 5px;
@@ -431,7 +432,8 @@
     border: none;
     outline: none;
     height: 35px;
-    /* width: 100%; */
+    width: 100%;
+    font-size: 9px;
     background-color: rgb(16, 75, 135);
     color: white;
     border-radius: 5px;
@@ -447,7 +449,8 @@
     border: none;
     outline: none;
     height: 35px;
-    /* width: 100%; */
+    width: 100%;
+    font-size: 12px;
     background-color: rgb(0, 202, 248);
     color: white;
     border-radius: 5px;
