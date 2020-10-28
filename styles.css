@@ -411,6 +411,54 @@
     font-weight: bold;
 }
 
+.google_btn{
+    border: none;
+    outline: none;
+    height: 35px;
+    /* width: 100%; */
+    background-color: rgb(255, 3, 2);
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.google_btn:hover {
+    background: white;
+    border: 1px solid;
+    color: black;
+}
+
+.fb_btn{
+    border: none;
+    outline: none;
+    height: 35px;
+    /* width: 100%; */
+    background-color: rgb(16, 75, 135);
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.fb_btn:hover {
+    background: white;
+    border: 1px solid;
+    color: black;
+}
+
+.tw_btn{
+    border: none;
+    outline: none;
+    height: 35px;
+    /* width: 100%; */
+    background-color: rgb(0, 202, 248);
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.tw_btn:hover {
+    background: white;
+    border: 1px solid;
+    color: black;
+}
+
 .login_btn1:hover {
     background: white;
     border: 1px solid;
