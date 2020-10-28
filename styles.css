@@ -388,3 +388,49 @@
     padding:10px;
     border-radius: 10px;
 }
+.login-bg{
+    background: rgb(226, 243, 243);
+}
+.login_row{
+    background: white;
+    border-radius: 30px; /*Bordes redondeados*/
+    box-shadow: 12px 12px 22px grey;
+}
+.login_img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.login_btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.login_btn1:hover {
+    background: white;
+    border: 1px solid;
+    color: black;
+}
+
+.login_logo_container{
+    background: white;
+	height: 50px;
+	color:black;
+	padding: 2px;
+	font-size: 30px;
+	text-align: left;
+  }
+.login_logo1{
+	background: white;
+	width: 45px;
+	height: 45px;
+	float: left;
+	flex: 1 1 auto;
+	color:black;
+	font-size: 30px;
+  }
