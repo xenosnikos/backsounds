@@ -1,6 +1,7 @@
 .page {
     margin: auto;
     width: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .main {
@@ -95,7 +96,7 @@
 
 .audioPlayer {
     width: inherit;
-    margin-top: 50px;
+    margin-top: 25px;
 }
 
 .navList {
@@ -117,6 +118,14 @@
     list-style: none;
     margin-left: -20px;
     padding: 20px;
+}
+
+.Deco{
+    color: #000000;
+    text-decoration: none;
+    list-style: none;
+    
+    
 }
 
 .spaceEm {
@@ -484,4 +493,51 @@
 	flex: 1 1 auto;
 	color:black;
 	font-size: 30px;
+  }
+  .buttonSpace{
+      text-align: center;
+  }
+  .greySection{
+      background-color:lightgray;
+
+  }
+  .mockUp{
+      height: 350px;
+  }
+  .greySection{
+      margin-top: 50px;
+  }
+  .playPic{
+      margin:20px;
+  }
+  .underlined{
+      border-bottom: 2px solid red;
+      
+      
+      
+  }
+  .pictureBox{
+      margin-top: 80px;
+      background-image: url(imgs/backDrop.jpg);
+      height: 300px;
+  }
+  .pictureBoxLeft{
+      margin-top: 150px;
+      color: white;
+      
+  }
+  .pictureBoxRight{
+      margin-top: 150px;
+  }
+  .pBR{
+      width: 300px;
+      border: 3px lightcoral groove ;
+  }
+  .footer{
+      background-color: lightskyblue;
+      margin-top: 55px;
+      display: inline-block;
+      color:grey;
+      background-color: lightgray;
+      
   }
